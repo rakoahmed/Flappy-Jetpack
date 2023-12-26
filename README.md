@@ -23,12 +23,11 @@ To run "Flappy's Jetpack", you will need:
 
 ## Installation
 To install and run the game, follow these steps:
-```bash
 # Clone or download the game repository
 # Navigate to the game directory
 # Ensure Python and Pygame are installed
-# Run the game using Python
-`python main.py`
+# Run the game using Python:
+python main.py
 
 ## Gameplay and Controls
 - Use the space bar to control the jetpack's altitude.
