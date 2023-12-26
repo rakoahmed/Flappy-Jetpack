@@ -38,5 +38,7 @@ python main.py
 Contributions to "Flappy's Jetpack" are welcome! Whether it's bug fixes, new features, or improvements to the code, your input is valuable.
 
 ## Screenshots
-![Alt text](image.png)
-![Alt text](image-1.png)
+![image](https://github.com/rakoahmed/Flappy-Jetpack/assets/106411545/90cb93ff-1322-4cfd-8351-5b79908f0e43)
+
+![image](https://github.com/rakoahmed/Flappy-Jetpack/assets/106411545/e460b874-025b-4e3c-8c07-783fe3fe7321)
+
